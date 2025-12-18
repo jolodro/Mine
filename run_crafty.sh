@@ -1,5 +1,5 @@
 #!/bin/bash
 cd /workspaces/Mine/crafty
 source .venv/bin/activate 
-cd crafty-4 
+cd crafty 
 exec python3 main.py 

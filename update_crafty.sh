@@ -1,7 +1,7 @@
 #!/bin/bash
 cd /workspaces/Mine/crafty
 source .venv/bin/activate 
-cd crafty-4 
+cd crafty 
 
 if [[ -v 1 ]]; then
     yn="$1"
